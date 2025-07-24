@@ -465,6 +465,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) : A jumpstart AI course from Google
 - [Machine Learning Tutorial: A Step-by-Step Guide for Beginners](https://www.simplilearn.com/tutorials/machine-learning-tutorial) : A one-stop playlist for all the basics of Machine Learning simplified, from Logistic Regression to Reinforcement Learning.
 - [MLU-EXPLAIN](https://mlu-explain.github.io/) : Machine Learning University (MLU) is an education initiative from Amazon designed for visual explanations of core machine learning concepts.
+- [AI For Developers](https://aifordevelopers.org) : A curated list of AI agents, SDKs, coding copilots, and dev-first tools.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
